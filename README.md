@@ -10,3 +10,5 @@ https://www.pepcoding.com/resources/online-java-foundation/getting-started/is-nu
 
 https://www.pepcoding.com/resources/online-java-foundation/getting-started/print-all-primes-till-n-official/ojquestion
 
+
+https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-8-official/ojquestion
