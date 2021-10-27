@@ -12,3 +12,5 @@ https://www.pepcoding.com/resources/online-java-foundation/getting-started/print
 
 
 https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-8-official/ojquestion
+
+https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-7-official/ojquestion
